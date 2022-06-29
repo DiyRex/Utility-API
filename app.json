@@ -1,0 +1,16 @@
+{
+    "Name": "Utility-API",
+    "Author": "DiyRex",
+    "Repository": "https://github.com/DiyRex/Utility-API",
+    "logo": "https://github.com/DiyRex/Utility-API/blob/main/Design/logo.png?raw=true",
+    "Keywords": [
+      "utility-api",
+      "QR-tool",
+      "text_tools"
+    ],
+    "env": {
+        "APP_NAME": {
+          "description": "The App Name you want to use !!"
+            }
+    }
+  }
