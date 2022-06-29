@@ -1,7 +1,7 @@
 <h1 align="center">Utility-API</h1>
 
 <p align="center">
-  <img src="https://github.com/DiyRex/Utility-API/blob/main/Design/logo.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/DiyRex/Utility-API/blob/main/Designs/logo.png?raw=true" width="350" title="hover text">
 </p>
 <h3 align="center">API containing QR and Text related Tool</h3>
 <br>
