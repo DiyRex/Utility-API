@@ -49,7 +49,7 @@ async def root():
     "Search images and receive as zip":f"{host_url}/img_search?keyword=[keyword]&count=[count]",
     "Generate cc from bin":f"{host_url}/cc_gen?bin=[bin]?year=[year]&month=[month]&ccv=[ccv]&amount=[amount]",
     "Generate List of passwords":f"{host_url}/pwd_gen?length=[length]&amount=[amount]",
-    "Generate fake profile":f"{host_url}/fake",
+    "Generate fake profile":f"{host_url}/fakedata",
     "Generate dot mails from gmail":f"{host_url}/dotmail?email=[email]",
     "Generate voice from text":f"{host_url}/txt_voice?text=[text]",
     "Translate text (Google Translate)":f"{host_url}/translate?text=[text]&language=[language]",
