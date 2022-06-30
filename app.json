@@ -18,7 +18,10 @@
         "url": "https://github.com/heroku/heroku-buildpack-python.git"
       },
       {
-        "url": "https://github.com/sheck/heroku-buildpack-zbar.git"
+        "url": "https://github.com/getlantern/heroku-buildpack-yt-dlp.git"
+      },
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-apt.git"
       }
     ]
   }
