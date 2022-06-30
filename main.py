@@ -194,5 +194,3 @@ async def Pixels_Image_Search(keyword: Optional[str] = None,page: Optional[int] 
     pixels_urls = pixels(keyword=keyword,page=page,result=result)
     return {"Images":pixels_urls}
 
-if __name__ == "__main__":
-    app.run(threaded=True, port=5000, debug=True, use_reloader=True)
