@@ -12,5 +12,13 @@
         "APP_NAME": {
           "description": "The App Name you want to use !!"
             }
-    }
+    },
+    "buildpacks": [
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-python.git"
+      },
+      {
+        "url": "https://github.com/sheck/heroku-buildpack-zbar.git"
+      }
+    ]
   }
